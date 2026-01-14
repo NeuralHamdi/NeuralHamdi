@@ -1,85 +1,80 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ahmed+Hamdi!+👋;Aspiring+Machine+Learning+Engineer;Building+Scalable+Data+Solutions+🚀;4th+Year+IT+Engineering+Student;Python+%26+AI+Enthusiast&font=Fira+Code&center=true&width=500&height=50&color=3776AB&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=print('Hello+World!+I+am+Ahmed+Hamdi');class+Ahmed(Engineer):;++++def+__init__(self):;++++++++self.role+=+'Big+Data+%26+AI+Student';++++++++self.passion+=+'Building+Scalable+Solutions'&font=Fira+Code&center=true&width=550&height=120&color=3776AB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <i>Turning raw data into intelligent insights at École Polytechnique d'Agadir.</i>
-</div>
+### 👨‍💻 About Me
 
-<br/>
+I am a passionate developer bridging the gap between **Web Engineering** and **Artificial Intelligence**. I love turning complex data into actionable insights and building robust applications.
+
+| 🎓 Education & Status | 📍 Information |
+| :--- | :--- |
+| **Current Degree** | **4th Year Engineering Student** (Diplôme d'Ingénieur d'État) |
+| **Major** | **Big Data & Artificial Intelligence** |
+| **School** | École Polytechnique d'Agadir |
+| **Fields of Interest** | Machine Learning, RAG Systems, LLMs, Full-Stack Web Dev |
+| **Languages** | Arabic (Native), French (Fluent), English (Fluent) |
 
 ---
 
-### 🧠 My Python & AI Arsenal
+### 🛠️ My Technical Arsenal
 
-I focus on building end-to-end data pipelines and intelligent systems. Here is the ecosystem I work with:
+Here are the technologies I work with daily:
 
-#### 1️⃣ Data Manipulation & Core ML
-The foundation of everything.
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+#### 🧠 AI & Data Science (My Specialization)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</div>
-
-#### 2️⃣ Deep Learning & GenAI (LLMs)
-Where the magic happens. Building advanced models and RAG systems.
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>
 
-#### 3️⃣ Big Data & Engineering
-Handling scale and deployment.
-<div style="display: flex; gap: 10px; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
-
-<details>
-  <summary>👇 <b>Click to see my Web Dev Stack (Bonus Skills)</b></summary>
-  <br/>
-  Full-Stack capabilities for building interfaces around AI models.
-  <br/><br/>
+#### 💻 Full-Stack Web Development
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</details>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
----
+#### 🗄️ Databases & Big Data
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### 📊 Continuous Integration & Stats
-
-My GitHub activity is automatically tracked here.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeuralHamdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Ahmed's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralHamdi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" height="150" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeuralHamdi&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Streak" height="150" />
+#### ⚙️ DevOps & Tools
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
 ---
 
-### ⚡ Human Specs
+### 📊 GitHub Activity
 
-* 💬 **Polyglot Engineer:** Fluent in **Arabic, French, and English**.
-* 🎮 **Context Switching:** Decompressing via **Valorant** & **Warzone**.
-* ⚽ **Loyalty:** Visca el **Barça**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeuralHamdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralHamdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" alt="Langs" />
+</div>
 
 ---
 
 <div align="center">
+  <p><i>Hobbies: Gaming (Valorant, Warzone) & FC Barcelona Fan ⚽</i></p>
+
   <a href="mailto:ahmed.hamdi.inf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-c14438?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20">
+    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ahmad-hamdi-861aba340">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
