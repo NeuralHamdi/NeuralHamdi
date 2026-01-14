@@ -1,42 +1,162 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Hamdi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Big%20Data%20%26%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=print('Hello+World!+I+am+Ahmed+Hamdi');Turning+Data+Into+Intelligence+🧠;Big+Data+%26+AI+Student+🚀&font=Fira+Code&center=true&width=550&height=100&color=3776AB&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Transforming+Data+Into+Intelligence;💡+AI+%26+Machine+Learning+Enthusiast;🌐+Full-Stack+Web+Developer;📊+Big+Data+Analytics+Specialist&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing Animation" />
   </a>
 </div>
 
-### 👨‍💻 About Me
+<br>
 
-I am a passionate developer bridging the gap between **Web Engineering** and **Artificial Intelligence**. I love turning complex data into actionable insights and building robust applications.
+## 👨‍💻 About Me
 
-```json
-// 👤 user_profile.json
-{
-  "identity": {
-    "name": "Ahmed Hamdi",
-    "status": "4th Year Engineering Student",
-    "school": "École Polytechnique d'Agadir"
-  },
-  "specialization": [
-    "Big Data Analysis",
-    "Artificial Intelligence (RAG, LLMs)",
-    "Full-Stack Web Development"
-  ],
-  "languages": {
-    "Arabic": "Native",
-    "French": "Fluent",
-    "English": "Fluent"
-  },
-  "current_focus": "Building an AI-powered PDF Chatbot using Gemini & LangChain"
-}
-🛠️ My Technical Arsenal
-Here are the technologies I work with daily:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🧠 AI & Data Science (Core Focus)
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dchainlink%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/HuggingFace-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikitlearn%26logoColor%3Dwhite" /> </div>
+```python
+class AhmedHamdi:
+    def __init__(self):
+        self.name = "Ahmed Hamdi"
+        self.role = "Big Data & AI Engineering Student"
+        self.education = "École Polytechnique d'Agadir"
+        self.year = "4th Year"
+        self.location = "Agadir, Morocco 🇲🇦"
+        
+    def get_specializations(self):
+        return [
+            "🤖 Artificial Intelligence (RAG, LLMs)",
+            "📊 Big Data Analysis & Processing",
+            "🌐 Full-Stack Web Development",
+            "🔗 LangChain & Gemini Integration"
+        ]
+    
+    def get_languages(self):
+        return {
+            "Arabic": "Native 🌟",
+            "French": "Fluent 🇫🇷",
+            "English": "Fluent 🇬🇧"
+        }
+    
+    def current_project(self):
+        return "Building AI-powered PDF Chatbot with Gemini & LangChain 📄🤖"
+    
+    def hobbies(self):
+        return ["Gaming 🎮", "FC Barcelona ⚽", "Tech Innovation 💡"]
 
-💻 Full-Stack & Tools
-<div style="display: flex; gap: 10px; flex-wrap: wrap;"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> </div>
+# Initialize
+me = AhmedHamdi()
+print(f"Welcome to {me.name}'s GitHub Profile!")
+```
 
-<div align="center"> <p><i>Hobbies: Gaming (Valorant, Warzone) & FC Barcelona Fan ⚽</i></p>
+<br clear="right"/>
 
-<a href="mailto:ahmed.hamdi.inf@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Me-EA4335%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/ahmad-hamdi-861aba340"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"> </a> </div>
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🧠 AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### 💻 Full-Stack Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🎯 Current Focus
+
+```javascript
+const currentProjects = {
+  main: "AI-Powered PDF Chatbot 🤖",
+  technologies: ["Gemini API", "LangChain", "Python", "RAG"],
+  status: "In Development 🚧",
+  description: "Building an intelligent chatbot that understands and answers questions from PDF documents"
+};
+
+const learningGoals = [
+  "Advanced LLM fine-tuning techniques",
+  "Scalable Big Data architectures", 
+  "Production-ready AI systems",
+  "Cloud deployment strategies"
+];
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+</div>
+
+## 🎮 When I'm Not Coding...
+
+<div align="center">
+  
+| 🎯 Activity | 💫 Passion Level |
+|------------|------------------|
+| Gaming (Valorant, Warzone) | ⭐⭐⭐⭐⭐ |
+| Watching FC Barcelona ⚽ | ⭐⭐⭐⭐⭐ |
+| Exploring New AI Tools | ⭐⭐⭐⭐⭐ |
+| Learning New Technologies | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-ahmed.hamdi.inf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hamdi.inf@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Hamdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hamdi-861aba340)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Turning complex data into intelligent solutions, one line of code at a time"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
