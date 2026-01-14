@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmed%20Hamdi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Big%20Data%20%26%20AI%20Engineer%20|%20Full-Stack%20Developer&descAlignY=51&descAlign=50" width="100%"/>
-</div>
+  
+# 👋 Hi, I'm Ahmed Hamdi
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Transforming+Data+Into+Intelligence;💡+AI+%26+Machine+Learning+Enthusiast;🌐+Full-Stack+Web+Developer;📊+Big+Data+Analytics+Specialist&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing Animation" />
-  </a>
+### 🚀 Big Data & AI Engineer | Full-Stack Developer
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Transforming+Data+Into+Intelligence;💡+AI+%26+Machine+Learning+Enthusiast;🌐+Full-Stack+Web+Developer;📊+Big+Data+Analytics+Specialist&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing Animation" />
+</a>
+
 </div>
 
 <br>
@@ -42,7 +44,7 @@ class AhmedHamdi:
         return "Building AI-powered PDF Chatbot with Gemini & LangChain 📄🤖"
     
     def hobbies(self):
-        return ["Gaming 🎮", "FC Barcelona ⚽", "Tech Innovation 💡"]
+        return ["Gaming 🎮", "FC Barcelona ⚽", "FC 26 ⚽", "Tech Innovation 💡"]
 
 # Initialize
 me = AhmedHamdi()
@@ -99,34 +101,14 @@ const learningGoals = [
 ];
 ```
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B" width="100%"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-</div>
-
 ## 🎮 When I'm Not Coding...
 
 <div align="center">
   
 | 🎯 Activity | 💫 Passion Level |
 |------------|------------------|
-| Gaming (Valorant, Warzone) | ⭐⭐⭐⭐⭐ |
+| Gaming (Valorant) 🎮 | ⭐⭐⭐⭐⭐ |
+| FC 26 ⚽ | ⭐⭐⭐⭐⭐ |
 | Watching FC Barcelona ⚽ | ⭐⭐⭐⭐⭐ |
 | Exploring New AI Tools | ⭐⭐⭐⭐⭐ |
 | Learning New Technologies | ⭐⭐⭐⭐⭐ |
