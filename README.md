@@ -14,12 +14,33 @@
 
 ## 👨‍💻 About Me
 
-I am a 4th-year engineering student specializing in **Big Data and Artificial Intelligence** at École Polytechnique d'Agadir. I am passionate about designing scalable data pipelines, developing machine learning models, and building robust full-stack applications. My goal is to bridge the gap between complex data and intuitive, intelligent solutions.
+```python
+class AhmedHamdi:
+    def __init__(self):
+        self.name = "Ahmed Hamdi"
+        self.role = "Big Data & AI Engineering Student (4th Year)"
+        self.education = "École Polytechnique d'Agadir"
+        self.location = "Agadir, Morocco 🇲🇦"
+        
+    def get_focus_areas(self):
+        return [
+            "🤖 Machine Learning & Computer Vision",
+            "⚙️ Data Engineering & Pipelines",
+            "🌐 Full-Stack Web Development",
+            "🧠 LLMs & RAG Architectures"
+        ]
+    
+    def get_languages(self):
+        return {
+            "Arabic": "Native 🌟",
+            "French": "Fluent 🇫🇷",
+            "English": "Fluent 🇬🇧"
+        }
 
-- 🎓 **Education:** Engineering Degree in Big Data & AI (4th Year)
-- 🌍 **Location:** Agadir, Morocco 🇲🇦
-- 🧠 **Focus Areas:** Machine Learning, Computer Vision, RAG Architectures, and Data Engineering
-- 💻 **Development:** Full-Stack Web Development & API Integration
+# Initialize Profile
+me = AhmedHamdi()
+print(f"Welcome to {me.name}'s GitHub Profile!")
+```
 
 <br>
 
