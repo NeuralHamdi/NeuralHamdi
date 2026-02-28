@@ -5,7 +5,7 @@
 ### 🚀 Big Data & AI Engineer | Full-Stack Developer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+Transforming+Data+Into+Intelligence;💡+AI+%26+Machine+Learning+Enthusiast;🌐+Full-Stack+Web+Developer;📊+Big+Data+Analytics+Specialist&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Transforming+Data+Into+Intelligence;AI+%26+Machine+Learning+Specialist;Full-Stack+Web+Developer;Data+Engineering+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&pause=1000&size=20" alt="Typing Animation" />
 </a>
 
 </div>
@@ -14,44 +14,14 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+I am a 4th-year engineering student specializing in **Big Data and Artificial Intelligence** at École Polytechnique d'Agadir. I am passionate about designing scalable data pipelines, developing machine learning models, and building robust full-stack applications. My goal is to bridge the gap between complex data and intuitive, intelligent solutions.
 
-```python
-class AhmedHamdi:
-    def __init__(self):
-        self.name = "Ahmed Hamdi"
-        self.role = "Big Data & AI Engineering Student"
-        self.education = "École Polytechnique d'Agadir"
-        self.year = "4th Year"
-        self.location = "Agadir, Morocco 🇲🇦"
-        
-    def get_specializations(self):
-        return [
-            "🤖 Artificial Intelligence (RAG, LLMs)",
-            "📊 Big Data Analysis & Processing",
-            "🌐 Full-Stack Web Development",
-            "🔗 LangChain & Gemini Integration"
-        ]
-    
-    def get_languages(self):
-        return {
-            "Arabic": "Native 🌟",
-            "French": "Fluent 🇫🇷",
-            "English": "Fluent 🇬🇧"
-        }
-    
-    def current_project(self):
-        return "Building AI-powered PDF Chatbot with Gemini & LangChain 📄🤖"
-    
-    def hobbies(self):
-        return ["Gaming 🎮", "FC Barcelona ⚽", "FC 26 ⚽", "Tech Innovation 💡"]
+- 🎓 **Education:** Engineering Degree in Big Data & AI (4th Year)
+- 🌍 **Location:** Agadir, Morocco 🇲🇦
+- 🧠 **Focus Areas:** Machine Learning, Computer Vision, RAG Architectures, and Data Engineering
+- 💻 **Development:** Full-Stack Web Development & API Integration
 
-# Initialize
-me = AhmedHamdi()
-print(f"Welcome to {me.name}'s GitHub Profile!")
-```
-
-<br clear="right"/>
+<br>
 
 ## 🛠️ Tech Stack & Skills
 
@@ -61,7 +31,6 @@ print(f"Welcome to {me.name}'s GitHub Profile!")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -79,41 +48,10 @@ print(f"Welcome to {me.name}'s GitHub Profile!")
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## 🎯 Current Focus
-
-```javascript
-const currentProjects = {
-  main: "AI-Powered PDF Chatbot 🤖",
-  technologies: ["Gemini API", "LangChain", "Python", "RAG"],
-  status: "In Development 🚧",
-  description: "Building an intelligent chatbot that understands and answers questions from PDF documents"
-};
-
-const learningGoals = [
-  "Advanced LLM fine-tuning techniques",
-  "Scalable Big Data architectures", 
-  "Production-ready AI systems",
-  "Cloud deployment strategies"
-];
-```
-
-## 🎮 When I'm Not Coding...
-
-<div align="center">
-  
-| 🎯 Activity | 💫 Passion Level |
-|------------|------------------|
-| Gaming (Valorant) 🎮 | ⭐⭐⭐⭐⭐ |
-| FC 26 ⚽ | ⭐⭐⭐⭐⭐ |
-| Watching FC Barcelona ⚽ | ⭐⭐⭐⭐⭐ |
-| Exploring New AI Tools | ⭐⭐⭐⭐⭐ |
-| Learning New Technologies | ⭐⭐⭐⭐⭐ |
-
-</div>
+<br>
 
 ## 📫 Let's Connect!
 
@@ -121,15 +59,11 @@ const learningGoals = [
   
 [![Email](https://img.shields.io/badge/Email-ahmed.hamdi.inf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.hamdi.inf@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Hamdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hamdi-861aba340)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-NeuralHamdi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeuralHamdi)
 
 </div>
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<br>
 
 ---
 
@@ -137,7 +71,7 @@ const learningGoals = [
   
 ### 💡 *"Turning complex data into intelligent solutions, one line of code at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NeuralHamdi&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
